@@ -1,0 +1,28 @@
+Framework notes
+
+ Types:
+
+1. TDD: Test Driven Development
+2. BDD: Behavior Driven Development
+
+ Integrations:
+1. Java
+2. Maven
+3. Selenium
+4. TestNG
+5. Apache POI
+6. Github
+7. Jenkins
+
+We are using Cucumber to achieve BDD
+Also known as GWT Framework
+
+Feature Folder:
+		will contain all the feature files
+
+Keywords
+Given :
+When :
+Then :
+And :
+
